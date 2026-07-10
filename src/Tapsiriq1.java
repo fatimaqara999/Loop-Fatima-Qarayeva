@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Tapsiriq9 {
+public class Tapsiriq1 {
      public static void main(String[] argsr) {
     Scanner scanner = new Scanner(System.in);
     System.out.println("Bali daxil edin");
@@ -15,6 +15,8 @@ public class Tapsiriq9 {
         qiymet = "Qeyri-kafi";
     }
     System.out.println(" Bal: " +bal+  " Qiymet: " + qiymet );
+
+    scanner.close();
          }
 
      }
